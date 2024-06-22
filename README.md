@@ -1,2 +1,3 @@
 # shreyas-testing-facility-official-
-yay! official and working repositoru
+here, we really just look at some simple code and how i struggle to create websites. thanks for viewing this project! :)
+- shreyas/danoobbruh
